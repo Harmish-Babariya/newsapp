@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar{
+    background-color: rgb(247, 222, 222) !important;
+}
+.navbar a:hover{
+    color: rgb(104, 209, 245) !important;
+}
+.nav_active{
+    font-weight: bold !important;
+    font-style: italic !important;
+    border-bottom: 5px solid rgb(255, 0, 0) !important;
+}
+
+.btn{
+    border-radius: 20px !important;
+    margin-bottom: 20px;
+}
+
+.brand-name{
+    color: lightseagreen !important;
+}
+
+.margin-class{
+    margin-right: 20px;
+}
+
+.footer_class{
+    background-color: rgb(242, 186, 186) !important;
+    /* background: beige;
+    position:sticky;
+    bottom:0;
+    width: 100%; */
+   margin: 0 !important;
+   background:#6cf;
+   width: 100%;
+}
